@@ -1,8 +1,8 @@
 ## Welcome
 
-I'm an ecologist and acoustic biologist working with the [Natural Sounds and Night Skies Division (NSNSD)](https://www.nps.gov/orgs/1050/index.htm) of the [National Park Service](https://github.com/nationalparkservice). 
+I'm an ecologist, acoustic biologist, and data scientist working with the [Natural Sounds and Night Skies Division (NSNSD)](https://www.nps.gov/orgs/1050/index.htm) of the [National Park Service](https://github.com/nationalparkservice). 
 
-If you're interested in running [BirdNET](https://github.com/kahst/BirdNET-Analyzer) from R, check out the R package [NSNSDAcoustics](https://github.com/nationalparkservice/NSNSDAcoustics). I'm primarily an R coder, but also dabble in SQL and Python. I’m excited to collaborate on data wrangling, pipelines, and visualization related to terrestrial bioacoustics and allied fields. :musical_note: :microphone: :headphones: :bird: :frog: 	:cricket: :wolf:
+If you're interested in running [BirdNET](https://github.com/kahst/BirdNET-Analyzer) from R, check out the R package [NSNSDAcoustics](https://github.com/nationalparkservice/NSNSDAcoustics). I'm primarily an R coder, but also work in SQL and Python. I’m excited to collaborate on data wrangling, pipelines, and visualization related to terrestrial bioacoustics and allied fields. :musical_note: :microphone: :headphones: :bird: :frog: 	:cricket: :wolf:
 
 - [Google Scholar](https://scholar.google.com/citations?user=5DGw0XMAAAAJ&hl=en&oi=ao)
 - [LinkedIn](https://www.linkedin.com/in/cathleenbalantic/)
